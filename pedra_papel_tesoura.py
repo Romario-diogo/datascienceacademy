@@ -5,11 +5,12 @@ escolha
 3 = tesoura 
 
 entrada escolhe 
-sistema sorteia 
+tratamento da entrada para int 
+sistema sorteia (rando 1 a 3)
 
 se entrada == sistema 
     empate
-se entrada == 1
+se não se entrada == 1
     se sistema == 2
         sistema vence
     se sistema == 3 
