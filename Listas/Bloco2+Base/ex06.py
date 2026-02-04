@@ -15,3 +15,7 @@ for ultimo in it:
     pass
 
 print(f"{primeiro}, {ultimo}")
+
+numeros.remove(primeiro)
+numeros.remove(ultimo)
+print(numeros)
