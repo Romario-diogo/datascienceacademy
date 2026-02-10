@@ -7,4 +7,3 @@ for i in numeros:
         maior = i
     
 print(f"Maior numero da lista com for {maior}")
-print(f"Maior nnumero da lista com max {max(numeros)}")

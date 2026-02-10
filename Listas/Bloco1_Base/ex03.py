@@ -7,4 +7,3 @@ for i in numeros:
         menor = i
     
 print(f"Menor numero da lista com for {menor}")
-print(f"Menor nnumero da lista com max {min(numeros)}")

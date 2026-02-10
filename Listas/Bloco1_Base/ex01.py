@@ -3,4 +3,3 @@ total = 0
 for i in numeros:
     total += i
 print(f"Total da lista com for {total}")
-print(f"total da lista com sum {sum(numeros)}")
